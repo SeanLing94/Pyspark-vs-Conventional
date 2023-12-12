@@ -13,16 +13,6 @@ Spark, a powerful big data analytics processing engine will be applied to the sa
 
 Processing Time for different stages of data analytics processes, both for Conventional Techniques and Big Data Analytics Techniques. The percentages represent the proportion of time each stage takes in the total process. 
 
-	Conventional Techniques (s)	Percentage	Big Data Analytics Techniques (s)	Percentage
-Data Loading	0.0649	29.00%	0.3086	16.78%
-Data Exploration & Cleaning	0.0126	5.63%	0.4380	23.82%
-Data Transformation	0.0824	36.82%	0.1581	8.60%
-Data Aggregation	0.0630	28.15%	0.4812	26.17%
-Small-Scale Data Processing	0.0003	0.13%	0.2231	12.13%
-				
-Large-Scale Data Processing	0.0006	0.27%	0.2300	12.51%
-				
-Grand Total	0.2238	100.00%	1.8390	100.00%
 ![image](https://github.com/SeanLing94/placeholder/assets/143430094/200e7935-8760-4e41-bb5b-f70c34a015fd)
 
 Key Takeaway:
